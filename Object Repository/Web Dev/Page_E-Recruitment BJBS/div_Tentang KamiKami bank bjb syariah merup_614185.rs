@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Tentang KamiKami bank bjb syariah merup_614185</name>
+   <tag></tag>
+   <elementGuidId>43f7d413-3cd9-43ad-9549-7cfed29e8053</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.MuiGrid-root.jss154.MuiGrid-container</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div/div/div/div/div[9]/div/div/div/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>49d6cc76-72b9-4f94-8af6-3edc10be8e8e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>MuiGrid-root jss154 MuiGrid-container</value>
+      <webElementGuid>da36aef3-98ac-4a68-b24c-245aea0b7156</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Tentang KamiKami bank bjb syariah merupakan bank yang memiliki tanggung jawab besar sebagai salah satu pelaku ekonomi Indonesia untuk member kan pelayanan kepada masyarakat luas agar mereka menjadi sumber daya nasional yang tangguh dan terbaik, dengan memberikan edukasi/pendidikan perbankan yang baik, benar, dan sesuai dengan syariah. Inilah tentang kami..,,,Kontak KamiTelp: (022) 4202598Faks: (022) 4212524corporate@bjbs.co.idPT Bank Jabar Banten Syariah Jalan Braga No.135Butuh BantuanFrequently Asked Questions</value>
+      <webElementGuid>0e1d8003-63a1-495a-80ca-d82c85c35290</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;MuiBox-root jss3 jss1&quot;]/div[@class=&quot;MuiBox-root jss23 jss2&quot;]/div[@class=&quot;MuiBox-root jss24&quot;]/div[1]/div[9]/div[1]/div[@class=&quot;MuiBox-root jss160&quot;]/div[@class=&quot;MuiBox-root jss161 jss151&quot;]/div[@class=&quot;MuiGrid-root jss154 MuiGrid-container&quot;]</value>
+      <webElementGuid>ef53754b-4235-4e90-9a35-6927dafb4e05</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div/div/div/div[9]/div/div/div/div</value>
+      <webElementGuid>1b976bd1-a704-495b-84c4-46f814b78c2c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Lihat Detail'])[12]/following::div[10]</value>
+      <webElementGuid>42f08ecd-d6f2-42ec-9a42-306fc8dbf584</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Lihat Detail'])[11]/following::div[15]</value>
+      <webElementGuid>cca2d0a0-67d1-4f24-a4fe-4d8d393a221a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Copyright ©2022. BJB Syariah'])[1]/preceding::div[6]</value>
+      <webElementGuid>efe380ef-5548-4469-bc95-af951f684474</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[9]/div/div/div/div</value>
+      <webElementGuid>355610f0-6aff-4a38-b891-a1c9ac9aa199</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Tentang KamiKami bank bjb syariah merupakan bank yang memiliki tanggung jawab besar sebagai salah satu pelaku ekonomi Indonesia untuk member kan pelayanan kepada masyarakat luas agar mereka menjadi sumber daya nasional yang tangguh dan terbaik, dengan memberikan edukasi/pendidikan perbankan yang baik, benar, dan sesuai dengan syariah. Inilah tentang kami..,,,Kontak KamiTelp: (022) 4202598Faks: (022) 4212524corporate@bjbs.co.idPT Bank Jabar Banten Syariah Jalan Braga No.135Butuh BantuanFrequently Asked Questions' or . = 'Tentang KamiKami bank bjb syariah merupakan bank yang memiliki tanggung jawab besar sebagai salah satu pelaku ekonomi Indonesia untuk member kan pelayanan kepada masyarakat luas agar mereka menjadi sumber daya nasional yang tangguh dan terbaik, dengan memberikan edukasi/pendidikan perbankan yang baik, benar, dan sesuai dengan syariah. Inilah tentang kami..,,,Kontak KamiTelp: (022) 4202598Faks: (022) 4212524corporate@bjbs.co.idPT Bank Jabar Banten Syariah Jalan Braga No.135Butuh BantuanFrequently Asked Questions')]</value>
+      <webElementGuid>50d74956-f423-40a4-a772-4f19f749b60f</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

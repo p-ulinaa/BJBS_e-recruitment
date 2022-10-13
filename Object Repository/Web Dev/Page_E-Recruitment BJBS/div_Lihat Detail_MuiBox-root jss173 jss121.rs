@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Lihat Detail_MuiBox-root jss173 jss121</name>
+   <tag></tag>
+   <elementGuidId>aee1e0b8-a373-4dde-9c66-618048eeaee0</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.MuiBox-root.jss173.jss121</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div/div/div/div/div[6]/div/div/div/div/div/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>fe7ed200-d49f-4464-96e1-d2377a8a669d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>MuiBox-root jss173 jss121</value>
+      <webElementGuid>063fca8b-d7e8-4f67-90c6-a1525502c604</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;MuiBox-root jss3 jss1&quot;]/div[@class=&quot;MuiBox-root jss23 jss2&quot;]/div[@class=&quot;MuiBox-root jss24&quot;]/div[1]/div[6]/div[1]/div[@class=&quot;MuiBox-root jss123 jss110&quot;]/div[@class=&quot;MuiBox-root jss124 jss114&quot;]/div[@class=&quot;MuiGrid-root MuiGrid-container MuiGrid-align-items-xs-center MuiGrid-justify-content-xs-center&quot;]/div[@class=&quot;MuiGrid-root MuiGrid-item&quot;]/div[@class=&quot;MuiBox-root jss173 jss121&quot;]</value>
+      <webElementGuid>0c7f1da0-2b2b-4443-880c-67150356022d</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div/div/div/div[6]/div/div/div/div/div/div</value>
+      <webElementGuid>885f3e00-0f2b-4409-8009-b0319ba106cc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Lihat Detail'])[10]/following::div[36]</value>
+      <webElementGuid>9528293d-a72e-4ae7-8897-062229e94f22</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='bandung'])[4]/following::div[36]</value>
+      <webElementGuid>19f3cee6-f642-4e6b-add5-87af1c86cef9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Lihat Detail'])[11]/preceding::div[35]</value>
+      <webElementGuid>b43c8366-ed6b-4ffb-a653-6cc5d64d10c4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Lihat Detail'])[12]/preceding::div[40]</value>
+      <webElementGuid>feba117b-5f39-4229-98db-2428c6fbebfb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[6]/div/div/div/div/div/div</value>
+      <webElementGuid>c173c352-b0fa-4ece-83dd-a95398a10b0a</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

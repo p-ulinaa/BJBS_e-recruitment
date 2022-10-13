@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Copyright 2022. BJB Syariah</name>
+   <tag></tag>
+   <elementGuidId>9fd98c08-5c99-4955-9c70-5891b85d4bdf</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.MuiBox-root.jss163.jss159</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div/div/div/div/div[9]/div/div/div[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>e4b0ffc4-b3e1-4aae-a370-a6d6ad863f4b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>MuiBox-root jss163 jss159</value>
+      <webElementGuid>e89f836b-5087-4cbc-814d-7a9323b540f7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Copyright ©2022. BJB Syariah</value>
+      <webElementGuid>a02c5a48-9574-4d46-87ca-305aa9a25319</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;MuiBox-root jss3 jss1&quot;]/div[@class=&quot;MuiBox-root jss23 jss2&quot;]/div[@class=&quot;MuiBox-root jss24&quot;]/div[1]/div[9]/div[1]/div[@class=&quot;MuiBox-root jss160&quot;]/div[@class=&quot;MuiBox-root jss163 jss159&quot;]</value>
+      <webElementGuid>2682fcb8-1700-48dc-8a3e-4e80d3e13e14</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div/div/div/div[9]/div/div/div[2]</value>
+      <webElementGuid>a943fd3c-535e-4325-a4bd-59323c96bcc3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Lihat Detail'])[12]/following::div[16]</value>
+      <webElementGuid>3b2fbbfa-5f86-4059-abe0-7442b8c91d51</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Lihat Detail'])[11]/following::div[21]</value>
+      <webElementGuid>4f5aa37d-6205-4ef3-a1cc-cb5ef700807a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Copyright ©']/parent::*</value>
+      <webElementGuid>f12ace20-2eec-4899-ac78-9fe3bb7de406</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[9]/div/div/div[2]</value>
+      <webElementGuid>6f2b9c39-6de4-4826-a89d-560d05b5f399</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Copyright ©2022. BJB Syariah' or . = 'Copyright ©2022. BJB Syariah')]</value>
+      <webElementGuid>af7265cf-96a5-4439-9283-26c52a485194</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

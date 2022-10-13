@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>hr_Lihat Detail_MuiDivider-root jss147</name>
+   <tag></tag>
+   <elementGuidId>67db7b0a-02d6-4ad9-86f2-8008dac4880b</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>hr.MuiDivider-root.jss147</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div/div/div/div/div[8]/div/div/hr</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>hr</value>
+      <webElementGuid>84c78fb0-86b6-49e6-84c8-a8478e6467d8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>MuiDivider-root jss147</value>
+      <webElementGuid>d347df72-4824-4c28-adda-6cbfc7f8767a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;MuiBox-root jss3 jss1&quot;]/div[@class=&quot;MuiBox-root jss23 jss2&quot;]/div[@class=&quot;MuiBox-root jss24&quot;]/div[1]/div[8]/div[1]/div[@class=&quot;MuiBox-root jss150 jss135&quot;]/hr[@class=&quot;MuiDivider-root jss147&quot;]</value>
+      <webElementGuid>88332821-c788-4597-9c32-e0012fda5081</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div/div/div/div[8]/div/div/hr</value>
+      <webElementGuid>78fa2184-9e5a-4379-8594-ec5fbf32d78f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[8]/div/div/hr</value>
+      <webElementGuid>f0e0d4a2-c10d-4bef-9578-653dd8210c1a</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Tap to unmute_ytp-cued-thumbnail-overlay-image (1)</name>
+   <tag></tag>
+   <elementGuidId>2c503ac5-a6ee-4d82-8fb5-aba7749363df</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.ytp-cued-thumbnail-overlay-image</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='movie_player']/div[4]/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>0be27843-e5d2-48c0-bbef-59394c884829</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ytp-cued-thumbnail-overlay-image</value>
+      <webElementGuid>df6df4f2-67d5-41d0-ac60-abc5aff77a12</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;movie_player&quot;)/div[@class=&quot;ytp-cued-thumbnail-overlay&quot;]/div[@class=&quot;ytp-cued-thumbnail-overlay-image&quot;]</value>
+      <webElementGuid>fe11eb38-62af-4a30-85ed-5bce00a46eab</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element</name>
+      <type>Main</type>
+      <value>Object Repository/Web Dev/Page_E-Recruitment BJBS/iframe_Lihat Detail_jss132</value>
+      <webElementGuid>e25dcdc4-d017-44e8-9ba6-35e2233339ff</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='movie_player']/div[4]/div</value>
+      <webElementGuid>d25fdff2-95b0-4820-96ef-18ffaa2d8300</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/div</value>
+      <webElementGuid>b17a1b16-5c56-4705-b16b-d3f6abeb1419</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

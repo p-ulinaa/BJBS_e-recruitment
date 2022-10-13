@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Pencarian Posisi KerjaReset FilterKateg_961f1c</name>
+   <tag></tag>
+   <elementGuidId>88f042d9-1bb0-486f-a714-d9c3eb8cee4d</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.MuiPaper-root.jss66.MuiPaper-elevation1.MuiPaper-rounded</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div/div/div/div/div[4]/div/div/div/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>717e5ecf-4c48-4574-b439-36fc88684364</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>MuiPaper-root jss66 MuiPaper-elevation1 MuiPaper-rounded</value>
+      <webElementGuid>43e575f1-4e36-4f1c-b7c5-1b2e3b31ea5f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Pencarian Posisi KerjaReset FilterKategori Lowongan​LokasiPilih Lokasi Cari</value>
+      <webElementGuid>0f3479bd-8473-4f27-9514-3867abb7ce5c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;MuiBox-root jss3 jss1&quot;]/div[@class=&quot;MuiBox-root jss23 jss2&quot;]/div[@class=&quot;MuiBox-root jss24&quot;]/div[1]/div[4]/div[1]/div[@class=&quot;MuiBox-root jss76 jss61&quot;]/div[@class=&quot;MuiBox-root jss77 jss65&quot;]/div[@class=&quot;MuiPaper-root jss66 MuiPaper-elevation1 MuiPaper-rounded&quot;]</value>
+      <webElementGuid>d4677caf-7b6b-41ce-b7e5-5f3401e634d2</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div/div/div/div[4]/div/div/div/div</value>
+      <webElementGuid>fe35140e-4513-42e7-80f3-811e6e56cd45</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Jalur Khusus'])[1]/following::div[37]</value>
+      <webElementGuid>0bf7ea84-46c4-440a-8192-c4f2fa7c50be</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Berpengalaman'])[1]/following::div[37]</value>
+      <webElementGuid>d0c61786-abc5-4a29-91bc-4d98e2855e0f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/div/div/div/div</value>
+      <webElementGuid>eb718d43-812f-4e97-8f93-1813f0937650</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Pencarian Posisi KerjaReset FilterKategori Lowongan​LokasiPilih Lokasi Cari' or . = 'Pencarian Posisi KerjaReset FilterKategori Lowongan​LokasiPilih Lokasi Cari')]</value>
+      <webElementGuid>ee95b20d-7310-4e8f-b2fe-15ce2cda5c2a</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
